@@ -1,0 +1,1 @@
+Projeto simples ao meu gosto de rice do kde plasma 
